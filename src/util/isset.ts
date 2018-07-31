@@ -1,0 +1,3 @@
+Animate.Util.isset = function () {
+
+};
